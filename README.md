@@ -1,6 +1,9 @@
 # Storefront Page Wrapper
 [WooCommerce](https://woocommerce.com) plugin for the [Storefront](https://wordpress.org/themes/storefront/) theme to create a wrapper around the page and sidebar content.
 
+## Why?
+[Storefront](https://wordpress.org/themes/storefront/) does not have an element that wraps around the main content and sidebar. This plugin adds such a wrapper.
+
 ## Contents
 
 The Storefront Page Wrapper plugin includes the following files:
