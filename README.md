@@ -23,9 +23,6 @@ To disable and remove the Storefront Page Wrapper plugin, simply follow the step
 ## Contribute [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 Please feel free to contribute by submitting pull requests for bug fixes and improvements. Thanks for your support!
 
-## License
-Please review the [LICENSE](LICENSE) file located in the repo.
-
 ## Changes
 ### v1.0 (__1/16/2018__)
 
