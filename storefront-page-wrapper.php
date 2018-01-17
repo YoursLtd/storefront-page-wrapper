@@ -1,7 +1,9 @@
 <?php
 /*
 Plugin Name: Storefront Page Wrapper
+Plugin URI: https://github.com/YoursLtd/storefront-page-wrapper
 Author: JointByte - Anthony Iacono
+Author URI: http://yoursltd.com
 Version: 1.0
 Text Domain: storefront-page-wrapper
 */
